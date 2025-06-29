@@ -7,7 +7,7 @@ KHARIDARI is a fully functional e-commerce website for clothing, providing a sea
 - **Responsive Design**: Styled with Tailwind CSS for a mobile-friendly, responsive layout.
 - **User Authentication**: Features for login, signup, logout, cart management, and order placement.
 - **Payment Integration**: Secure payment gateways using Stripe and Razorpay for easy transactions.
-- **Admin Panel**: Tools for inventory management, order handling, and streamlined customer purchasing processes.
+- **Admin Panel**: Tools for inventory management, order handling, and streamlined customer purchasing process.
 
 ## Technologies Used
 - **Frontend**: React, Tailwind CSS
