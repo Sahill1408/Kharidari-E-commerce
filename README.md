@@ -1,6 +1,6 @@
 # KHARIDARI E-commerce
 
-## Descriptio
+## Description
 KHARIDARI is a fully functional e-commerce website for clothing, providing a seamless and secure shopping experience. The project utilizes the MERN stack (MongoDB, Express.js, React, Node.js) with Tailwind CSS for responsive design, ensuring  user-friendly interface across all devices.
 
 ## Features
