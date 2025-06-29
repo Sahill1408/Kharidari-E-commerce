@@ -69,7 +69,7 @@ This project is deployed using [Vercel](https://vercel.com/) for the front end a
 - **Firebase**: For streamlined authentication processes.
 - **Community Contributions**: Thanks to all the contributors who made this project better.
 
-## Licens
+## License
 This project is licensed under the MIT License.
 
 ---
