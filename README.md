@@ -72,8 +72,5 @@ This project is deployed using [Vercel](https://vercel.com/) for the front end a
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any inquiries or support, please contact me at adityapandit264@gmail.com.
-
 ---
 
